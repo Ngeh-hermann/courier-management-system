@@ -47,6 +47,5 @@ Password: admin123
 
 I hope this simple Courier Management System will help you with what you are looking for, feel free to download and modify the source code.
 
-Explore more on this website for more source codes and tutorials.
 
 Enjoy!
